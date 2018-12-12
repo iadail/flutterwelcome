@@ -1,0 +1,7 @@
+
+/test/
+.DS_Store
+.idea/
+android/.gradle/4.10.2/vcsMetadata-1/
+build/
+ios/Frameworks/
